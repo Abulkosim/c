@@ -1,3 +1,5 @@
-This is a sample input.
-It contains blanks, tabs, and newlines.
-	Here is a tab.
+10
+20
+30
+40
+50

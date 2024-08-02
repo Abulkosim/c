@@ -24,3 +24,17 @@ while ((c = getchar()) != EOF)
 
 --
 
+#### Data types in C Language 
+- char a single byte, capable of holding one character in the local character set
+- int an integer, typically reflecting the natural size of integers on the host machine
+- float single-precision floating point
+- double double-precision floating point 
+
+#### Pointers in C language
+- A pointer is a variable that contains the address of a variable
+- The unary operator * is the indirection or dereferencing operator
+- The & operator is the address operator
+- The value of a variable can be changed by using the * operator
+- Pointer Declaration: int *ptr;
+- Assign Address: ptr = &var;
+- Dereference Pointer: *ptr to access or modify the value.
