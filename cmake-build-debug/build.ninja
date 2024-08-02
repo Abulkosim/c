@@ -79,6 +79,12 @@ build CMakeFiles/c.dir/number_average.c.obj: C_COMPILER__c_unscanned_Debug C$:/U
   OBJECT_DIR = CMakeFiles\c.dir
   OBJECT_FILE_DIR = CMakeFiles\c.dir
 
+build CMakeFiles/c.dir/immutability.c.obj: C_COMPILER__c_unscanned_Debug C$:/Users/user/Desktop/projects/c/immutability.c || cmake_object_order_depends_target_c
+  DEP_FILE = CMakeFiles\c.dir\immutability.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\c.dir
+  OBJECT_FILE_DIR = CMakeFiles\c.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target c
@@ -87,7 +93,7 @@ build CMakeFiles/c.dir/number_average.c.obj: C_COMPILER__c_unscanned_Debug C$:/U
 #############################################
 # Link the executable c.exe
 
-build c.exe: C_EXECUTABLE_LINKER__c_Debug CMakeFiles/c.dir/reverse_string.c.obj CMakeFiles/c.dir/external_veriables.c.obj CMakeFiles/c.dir/data_types.c.obj CMakeFiles/c.dir/pointers.c.obj CMakeFiles/c.dir/number_average.c.obj
+build c.exe: C_EXECUTABLE_LINKER__c_Debug CMakeFiles/c.dir/reverse_string.c.obj CMakeFiles/c.dir/external_veriables.c.obj CMakeFiles/c.dir/data_types.c.obj CMakeFiles/c.dir/pointers.c.obj CMakeFiles/c.dir/number_average.c.obj CMakeFiles/c.dir/immutability.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\c.dir
