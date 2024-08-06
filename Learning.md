@@ -38,3 +38,14 @@ while ((c = getchar()) != EOF)
 - Pointer Declaration: int *ptr;
 - Assign Address: ptr = &var;
 - Dereference Pointer: *ptr to access or modify the value.
+
+#### Character Pointers and Functions 
+- A string constant is an array of characters
+- A string in C is a sequence of characters ending in '\0'
+
+```c
+printf("hello, world\n");
+```
+
+When a character string like this appears in a program, access to it is through a pointer to its first element. In the example above, the character pointer p is initialized to point to the first character of the string. 
+
