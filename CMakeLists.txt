@@ -11,4 +11,10 @@ add_executable(c reverse_string.c
         number_average.c
         mutability.c
         memory_allocation.c
+        character_arrays.c
+        pointers_practice.c
+        pointer_arithmetic.c
+        swap_values.c
+        stack_overflow.c
+        malloc.c
 )
