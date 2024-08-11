@@ -25,4 +25,6 @@ add_executable(c reverse_string.c
         webserver.c
         editor.c
         snake.c
+        scanf.c
+        get_put_char.c
 )
