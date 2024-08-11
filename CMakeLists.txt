@@ -17,4 +17,7 @@ add_executable(c reverse_string.c
         swap_values.c
         stack_overflow.c
         malloc.c
+        linked_list.c
+        struct.c
+        typedef.c
 )
