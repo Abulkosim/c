@@ -20,4 +20,9 @@ add_executable(c reverse_string.c
         linked_list.c
         struct.c
         typedef.c
+        self_refferential.c
+        self_refferential.c
+        webserver.c
+        editor.c
+        snake.c
 )
