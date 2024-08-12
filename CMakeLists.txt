@@ -27,4 +27,5 @@ add_executable(c reverse_string.c
         snake.c
         scanf.c
         get_put_char.c
+        file_handling.c
 )
