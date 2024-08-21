@@ -28,4 +28,19 @@ add_executable(c reverse_string.c
         scanf.c
         get_put_char.c
         file_handling.c
+        assignments/3.c
+        assignments/6.c
+        assignments/12.c
+        assignments/15.c
+        assignments/16.c
+        assignments/18.c
+        assignments/19.c
+        assignments/20.c
+        assignments/21.c
+        assignments/22.c
+        assignments/24.c
+        assignments/read_write.c
+        assignments/struct.c
+        pointer_deeper.c
+        unions.c
 )

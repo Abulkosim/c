@@ -1,3 +1,8 @@
 # ninja log v6
 5	136	7441234754191798	CMakeFiles/c.dir/main.c.obj	5f88ad6055d2bd48
+16	302	7458833451629958	CMakeFiles/c.dir/pointers.c.obj	ce4c3079fd626849
 136	231	7441234755499688	c.exe	9054907525abac76
+6	298	7458833451530493	CMakeFiles/c.dir/reverse_string.c.obj	a80d6f2198c0a6fe
+18	300	7458833451649954	CMakeFiles/c.dir/number_average.c.obj	905f30682e1d3c17
+22	301	7458833451689994	CMakeFiles/c.dir/mutability.c.obj	d843be41494c7b4d
+11	301	7458833451580005	CMakeFiles/c.dir/external_veriables.c.obj	d95fc6f8e3ee8136
