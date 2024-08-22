@@ -43,4 +43,5 @@ add_executable(c reverse_string.c
         assignments/struct.c
         pointer_deeper.c
         unions.c
+        pointer.c
 )

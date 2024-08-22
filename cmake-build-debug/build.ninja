@@ -277,6 +277,12 @@ build CMakeFiles/c.dir/unions.c.obj: C_COMPILER__c_unscanned_Debug C$:/Users/use
   OBJECT_DIR = CMakeFiles\c.dir
   OBJECT_FILE_DIR = CMakeFiles\c.dir
 
+build CMakeFiles/c.dir/pointer.c.obj: C_COMPILER__c_unscanned_Debug C$:/Users/user/Desktop/projects/c/pointer.c || cmake_object_order_depends_target_c
+  DEP_FILE = CMakeFiles\c.dir\pointer.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\c.dir
+  OBJECT_FILE_DIR = CMakeFiles\c.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target c
@@ -285,7 +291,7 @@ build CMakeFiles/c.dir/unions.c.obj: C_COMPILER__c_unscanned_Debug C$:/Users/use
 #############################################
 # Link the executable c.exe
 
-build c.exe: C_EXECUTABLE_LINKER__c_Debug CMakeFiles/c.dir/reverse_string.c.obj CMakeFiles/c.dir/external_veriables.c.obj CMakeFiles/c.dir/data_types.c.obj CMakeFiles/c.dir/pointers.c.obj CMakeFiles/c.dir/number_average.c.obj CMakeFiles/c.dir/mutability.c.obj CMakeFiles/c.dir/memory_allocation.c.obj CMakeFiles/c.dir/character_arrays.c.obj CMakeFiles/c.dir/pointers_practice.c.obj CMakeFiles/c.dir/pointer_arithmetic.c.obj CMakeFiles/c.dir/swap_values.c.obj CMakeFiles/c.dir/stack_overflow.c.obj CMakeFiles/c.dir/malloc.c.obj CMakeFiles/c.dir/linked_list.c.obj CMakeFiles/c.dir/struct.c.obj CMakeFiles/c.dir/typedef.c.obj CMakeFiles/c.dir/self_refferential.c.obj CMakeFiles/c.dir/webserver.c.obj CMakeFiles/c.dir/editor.c.obj CMakeFiles/c.dir/snake.c.obj CMakeFiles/c.dir/scanf.c.obj CMakeFiles/c.dir/get_put_char.c.obj CMakeFiles/c.dir/file_handling.c.obj CMakeFiles/c.dir/assignments/3.c.obj CMakeFiles/c.dir/assignments/6.c.obj CMakeFiles/c.dir/assignments/12.c.obj CMakeFiles/c.dir/assignments/15.c.obj CMakeFiles/c.dir/assignments/16.c.obj CMakeFiles/c.dir/assignments/18.c.obj CMakeFiles/c.dir/assignments/19.c.obj CMakeFiles/c.dir/assignments/20.c.obj CMakeFiles/c.dir/assignments/21.c.obj CMakeFiles/c.dir/assignments/22.c.obj CMakeFiles/c.dir/assignments/24.c.obj CMakeFiles/c.dir/assignments/read_write.c.obj CMakeFiles/c.dir/assignments/struct.c.obj CMakeFiles/c.dir/pointer_deeper.c.obj CMakeFiles/c.dir/unions.c.obj
+build c.exe: C_EXECUTABLE_LINKER__c_Debug CMakeFiles/c.dir/reverse_string.c.obj CMakeFiles/c.dir/external_veriables.c.obj CMakeFiles/c.dir/data_types.c.obj CMakeFiles/c.dir/pointers.c.obj CMakeFiles/c.dir/number_average.c.obj CMakeFiles/c.dir/mutability.c.obj CMakeFiles/c.dir/memory_allocation.c.obj CMakeFiles/c.dir/character_arrays.c.obj CMakeFiles/c.dir/pointers_practice.c.obj CMakeFiles/c.dir/pointer_arithmetic.c.obj CMakeFiles/c.dir/swap_values.c.obj CMakeFiles/c.dir/stack_overflow.c.obj CMakeFiles/c.dir/malloc.c.obj CMakeFiles/c.dir/linked_list.c.obj CMakeFiles/c.dir/struct.c.obj CMakeFiles/c.dir/typedef.c.obj CMakeFiles/c.dir/self_refferential.c.obj CMakeFiles/c.dir/webserver.c.obj CMakeFiles/c.dir/editor.c.obj CMakeFiles/c.dir/snake.c.obj CMakeFiles/c.dir/scanf.c.obj CMakeFiles/c.dir/get_put_char.c.obj CMakeFiles/c.dir/file_handling.c.obj CMakeFiles/c.dir/assignments/3.c.obj CMakeFiles/c.dir/assignments/6.c.obj CMakeFiles/c.dir/assignments/12.c.obj CMakeFiles/c.dir/assignments/15.c.obj CMakeFiles/c.dir/assignments/16.c.obj CMakeFiles/c.dir/assignments/18.c.obj CMakeFiles/c.dir/assignments/19.c.obj CMakeFiles/c.dir/assignments/20.c.obj CMakeFiles/c.dir/assignments/21.c.obj CMakeFiles/c.dir/assignments/22.c.obj CMakeFiles/c.dir/assignments/24.c.obj CMakeFiles/c.dir/assignments/read_write.c.obj CMakeFiles/c.dir/assignments/struct.c.obj CMakeFiles/c.dir/pointer_deeper.c.obj CMakeFiles/c.dir/unions.c.obj CMakeFiles/c.dir/pointer.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\c.dir
