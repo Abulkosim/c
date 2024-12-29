@@ -44,4 +44,5 @@ add_executable(c reverse_string.c
         pointer_deeper.c
         unions.c
         pointer.c
+        text_processing.c
 )
